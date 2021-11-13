@@ -1,0 +1,55 @@
+<이클립스 유용한 설정 및 단축키 모음>
+reference : https://youtu.be/Ogd_kxyqRSw
+
+0. 단축키 추가/변경/제거
+  : windows
+    > preference
+    > general
+    > keys
+
+1. Zoom in/out
+  : Ctrl  +
+  : Ctrl  -
+  
+2. Delete Line
+  : Ctrl + D
+  
+3. End of Line
+  : End
+  
+4. Content Assist
+  : Ctrl + Space
+  
+5. Run
+  : Ctrl + F11
+  
+6.Word Completion
+  : Alt + /
+  
+  
+7. Copy Lines
+  : Ctrl + Alt + Down
+  
+  
+8.Movr Lines Up/Down
+  : Alt + Up/Down
+  
+  
+9. Extract Methods
+  : Alt + Shift + M
+  
+  
+10. Rename, Refactoring
+  : Alt + Shift + R
+  
+11. Quick Fix
+  : Ctrl + 1 (숫자)
+  
+00. Automatically moving semi-colon to the correct position
+  : 
+  
+00. Removing "TODO" comment in method template, when adding methods 
+
+
+00. 
+  
